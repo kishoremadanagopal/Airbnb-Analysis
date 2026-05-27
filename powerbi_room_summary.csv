@@ -1,0 +1,16 @@
+neighbourhood_group,room_type,listings,mean_price
+Bronx,Entire home/apt,378,127.65
+Bronx,Private room,650,63.15
+Bronx,Shared room,59,58.61
+Brooklyn,Entire home/apt,9514,168.55
+Brooklyn,Private room,10101,72.89
+Brooklyn,Shared room,411,50.77
+Manhattan,Entire home/apt,13044,224.73
+Manhattan,Private room,7946,109.24
+Manhattan,Shared room,480,88.98
+Queens,Entire home/apt,2090,141.99
+Queens,Private room,3368,68.26
+Queens,Shared room,196,54.16
+Staten Island,Entire home/apt,174,139.93
+Staten Island,Private room,188,62.29
+Staten Island,Shared room,9,57.44

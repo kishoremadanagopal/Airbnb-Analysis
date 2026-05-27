@@ -1,0 +1,6 @@
+neighbourhood_group,listings,mean_price,median_price,avg_availability,total_reviews
+Bronx,1087,85.33,65.0,165.73,28279
+Brooklyn,20026,117.88,90.0,100.04,485487
+Manhattan,21470,178.95,149.0,111.45,452970
+Queens,5654,95.03,75.0,144.33,156891
+Staten Island,371,98.58,75.0,199.77,11541
